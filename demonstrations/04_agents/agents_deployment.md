@@ -37,7 +37,6 @@ java -cp .:/opt/jade/jade/lib/jade.jar:/usr/share/java/postgresql.jar jade.Boot 
 ```
 
 ![Agent Connected](../../media/agent4%20connected%20,%20measuring%20metrics%20and%20sending%20them%20to%20central%20agent.png)
-adding%20a%20new%20template%201.png)
 
 ## Phase 4: Verifying Inter-Agent Connectivity
 
